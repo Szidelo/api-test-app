@@ -1,0 +1,76 @@
+{
+	"articles": [
+		{
+			"id": "article1",
+			"img": "/assets/article1-img.png",
+			"title": "Significant reading has more info number",
+			"description": "Override the digital divide with additional clickthroughs from DevOps for real-time schemas.",
+			"date": "23.05.2022",
+			"category": "science"
+		},
+		{
+			"id": "article2",
+			"img": "/assets/article2-img.png",
+			"title": "Release of Letraset sheets tools containing passages",
+			"description": "Capitalize on low-hanging fruit to identify a ballpark value-added activity to beta test.",
+			"date": "24.05.2022",
+			"category": "science"
+		},
+		{
+			"id": "article3",
+			"img": "/assets/article3-img.png",
+			"title": "The energy efficiency offers hydrotherapy or swim",
+			"description": "Podcasting operational change management inside of workflows to establish a framework.",
+			"date": "25.05.2022",
+			"category": "hobbies"
+		},
+		{
+			"id": "article4",
+			"img": "/assets/article4-img.png",
+			"title": "The energy efficiency offers hydrotherapy or swim",
+			"description": "Taking seamless key performance indicators offline to maximize the long book reading tail.",
+			"date": "26.05.2022",
+			"category": "hobbies"
+		},
+		{
+			"id": "article5",
+			"img": "/assets/article5-img.png",
+			"title": "Exploring the Wonders of Wildlife Photography",
+			"description": "Discover the beauty of wildlife through the lens of photography, capturing nature at its finest.",
+			"date": "27.05.2022",
+			"category": "hobbies"
+		},
+		{
+			"id": "article6",
+			"img": "/assets/article6-img.png",
+			"title": "Unveiling the Mysteries of Ancient Artifacts",
+			"description": "Embark on a journey into the past as we uncover the secrets hidden within ancient artifacts.",
+			"date": "28.05.2022",
+			"category": "science"
+		},
+		{
+			"id": "article7",
+			"img": "/assets/article7-img.png",
+			"title": "The Secrets of Culinary Masterpieces",
+			"description": "Delve into the world of gastronomy and learn the secrets behind culinary masterpieces from around the globe.",
+			"date": "29.05.2022",
+			"category": "food"
+		},
+		{
+			"id": "article8",
+			"img": "/assets/article8-img.png",
+			"title": "A Journey Through Time: Historical Landmarks",
+			"description": "Take a step back in time and explore the historical landmarks that have shaped our world.",
+			"date": "30.05.2022",
+			"category": "science"
+		},
+		{
+			"id": "article9",
+			"img": "/assets/article9-img.png",
+			"title": "Discovering Hidden Treasures: Archaeological Excavations",
+			"description": "Join archaeologists on their quest to unearth hidden treasures and unlock the mysteries of ancient civilizations.",
+			"date": "03.06.2022",
+			"category": "science"
+		}
+	]
+}
